@@ -1,0 +1,1 @@
+for port in $(seq 0 1 65535); do ((</dev/tcp/192.168.122.4/$port) 2> /dev/null && echo "Port "$port "is open"); done
