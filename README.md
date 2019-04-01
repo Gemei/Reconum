@@ -1,2 +1,2 @@
 # Reconum
-A punch of scripts to enum a target on various aspects
+A bunch of scripts to enum a target on various aspects
